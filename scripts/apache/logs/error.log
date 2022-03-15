@@ -1,0 +1,61 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 17 11:29:44.442859 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Mon Jan 17 11:29:44.443049 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 17 12:51:22.732136 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 18 17:03:29.009482 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Tue Jan 18 17:03:29.009527 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jan 18 17:46:53.822483 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 19 15:40:14.730268 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Wed Jan 19 15:40:14.730507 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jan 19 16:17:46.716112 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 21 09:39:16.668360 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Fri Jan 21 09:39:16.668611 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Jan 21 09:41:52.347640 2022] [php7:error] [pid 17] [client 192.168.17.113:60113] script '/var/www/html/controladorMostrarCliente.php' not found or unable to stat, referer: http://192.168.18.122:8085/mostrarClientes.php
+[Fri Jan 21 09:41:59.712227 2022] [php7:error] [pid 18] [client 192.168.17.113:60114] script '/var/www/html/controladorMostrarCliente.php' not found or unable to stat, referer: http://192.168.18.122:8085/mostrarClientes.php
+[Fri Jan 21 11:48:51.469054 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 23 22:09:40.419606 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Sun Jan 23 22:09:40.419652 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jan 23 22:10:07.785924 2022] [php7:error] [pid 18] [client 192.168.0.22:56669] script '/var/www/html/controladorMostrarCliente.php' not found or unable to stat, referer: http://192.168.0.40:8085/mostrarClientes.php
+[Sun Jan 23 22:10:44.968768 2022] [php7:error] [pid 20] [client 192.168.0.22:56686] script '/var/www/html/controladorMostrarCliente.php' not found or unable to stat, referer: http://192.168.0.40:8085/mostrarClientes.php
+[Sun Jan 23 22:12:21.832985 2022] [php7:error] [pid 22] [client 192.168.0.22:56816] script '/var/www/html/controladorMostrarCliente.php' not found or unable to stat
+[Mon Jan 24 00:29:39.326768 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 24 11:49:19.761328 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Mon Jan 24 11:49:19.761478 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 24 11:53:50.203875 2022] [php7:error] [pid 22] [client 192.168.17.113:63128] script '/var/www/html/controladorMostrarProovedores.php' not found or unable to stat, referer: http://192.168.18.122:8085/mostrarProveedores.php
+[Mon Jan 24 11:53:54.978018 2022] [php7:error] [pid 22] [client 192.168.17.113:63128] script '/var/www/html/controladorMostrarProovedores.php' not found or unable to stat, referer: http://192.168.18.122:8085/mostrarProveedores.php
+[Mon Jan 24 11:53:59.283900 2022] [php7:error] [pid 22] [client 192.168.17.113:63128] script '/var/www/html/controladorMostrarProovedores.php' not found or unable to stat, referer: http://192.168.18.122:8085/mostrarProveedores.php
+[Mon Jan 24 11:56:55.321301 2022] [php7:error] [pid 19] [client 192.168.17.113:63135] script '/var/www/html/controladorMostrarProovedores.php' not found or unable to stat, referer: http://192.168.18.122:8085/mostrarProveedores.php
+[Mon Jan 24 11:59:16.979452 2022] [php7:error] [pid 22] [client 192.168.17.113:63140] script '/var/www/html/controladorMostrarProovedores.php' not found or unable to stat, referer: http://192.168.18.122:8085/mostrarProveedores.php
+[Mon Jan 24 12:47:59.363599 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 28 10:02:21.510837 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Fri Jan 28 10:02:21.511036 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Jan 28 11:53:04.193744 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 30 17:13:33.847466 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Sun Jan 30 17:13:33.847507 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jan 30 17:16:22.509980 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 03 16:05:50.464624 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Thu Feb 03 16:05:50.464786 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Feb 03 16:54:51.730014 2022] [php7:error] [pid 21] [client 192.168.0.22:63479] script '/var/www/html/ControladorActualizarProducto.php' not found or unable to stat, referer: http://192.168.0.40:8085/ActualizarProducto.php
+[Thu Feb 03 16:58:53.250235 2022] [php7:error] [pid 18] [client 192.168.0.22:50842] script '/var/www/html/ControladorActualizarProducto.php' not found or unable to stat, referer: http://192.168.0.40:8085/ActualizarProducto.php
+[Thu Feb 03 19:38:19.463227 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 14 11:14:01.895316 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Mon Feb 14 11:14:01.895484 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Feb 14 11:34:01.248486 2022] [php7:error] [pid 17] [client 192.168.17.113:55353] script '/var/www/html/borrarproducto.php' not found or unable to stat, referer: http://192.168.18.122:8085/
+[Mon Feb 14 11:34:31.415833 2022] [php7:error] [pid 18] [client 192.168.17.113:55354] script '/var/www/html/borrarproducto.php' not found or unable to stat, referer: http://192.168.18.122:8085/
+[Mon Feb 14 12:46:12.895410 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Feb 18 20:04:43.636318 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Fri Feb 18 20:04:43.636479 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Feb 18 20:05:08.686301 2022] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 15 18:16:41.753529 2022] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.51 (Debian) PHP/7.4.27 configured -- resuming normal operations
+[Tue Mar 15 18:16:41.753668 2022] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
